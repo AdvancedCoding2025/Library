@@ -50,16 +50,16 @@ VintageLibrary/
 ## Screenshots
 
 1. Home Page – Vintage Library header and empty book grid
-![home](screenshots/home.png)
+![home](ss/home.png)
 
 2. Adding a Book – Entering book details in the Add Book form
-![](screenshots/add.png)
+![home](ss/add.png)
 
 3. Search Functionality – Searching books by title or author
-![](screenshots/search.png)
+![home](ss/search.png)
 
 4. Issue/Return – Marking a book as issued and then returning it
-![](screenshots/issue.png)
+![home](ss/issue.png)
 
 
 ## Future Improvements
